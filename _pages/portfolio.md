@@ -15,7 +15,7 @@ author_profile: true
 
 ## Research Experience
 - Research Assistant (May 2025-Present) SCEA and CASCADE groups, UT Austin
-- Undergrad Research Assistant (May 2024-July 2025), Carnegie Mellon University
+- Undergrad Research Assistant (May 2024-July 2025), CAOS Lab, Carnegie Mellon University
 - Undergrad Research Assistant (Dec 2023-May 2024), CMU CS Academy
 
 ## Teaching Experience
