@@ -8,13 +8,13 @@ redirect_from:
 ---
 About
 ======
-I'm a Ph.D. student in the Computer Science Department at the University of Texas at Austin. I'm advised by [Jovan Stojkovic](https://jovans2.github.io/) and [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/). I enjoy teaching and anything systems related, with great interest in computer architecture, operating systems, and compilers. My goal is to teach computer systems at the university level. To this end, I am pursuing a PhD in Computer Science at UT Austin, with a focus on datacenter servers and hardware accelerators.
+I'm a Ph.D. student in the Computer Science Department at the University of Texas at Austin. I'm advised by [Jovan Stojkovic](https://jovans2.github.io/) and [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/). My research focuses on computer architecture and operating systems with a focus on datacenter efficiency and hardware acceleration.
 
 I received my Bachelor's degree in Computer Science and Mathematical Sciences at Carnegie Mellon University, where I was fortunate to be advised by [Dimitrios Skarlatos](https://www.cs.cmu.edu/~dskarlat/).
 
 ## Research Interests
 My research focuses on **datacenter efficiency**, broadly in these three categories:
-  1. Computer architecture and hardware-software co-design for datacenter efficiency.
+  1. Computer architecture and hardware-software co-design for datacenters.
   2. Acceleration of complex problems using heterogeneous architectures.
   3. Compiler tools that offload resource management and parallel code from programmers.
 
