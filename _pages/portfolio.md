@@ -14,7 +14,7 @@ author_profile: true
   - **GPA:** 3.73/4.00; **Awards:** Allen Newell Award for Excellence in Undergraduate Research 
 
 ## Research Experience
-- Research Assistant (May 2025 - Present) [SCEA](https://github.com/utcs-scea) and CASCADE groups, UT Austin
+- Research Assistant (May 2025 - Present) [SCEA](https://github.com/utcs-scea) and [CASCADE](https://cascade.cs.utexas.edu/) groups, UT Austin
 - Undergrad Research Assistant (May 2024 - July 2025), [CAOS Lab](https://www.cs.cmu.edu/~caos/), Carnegie Mellon University
 - Undergrad Research Assistant (Dec 2023 - May 2024), CMU CS Academy
 
