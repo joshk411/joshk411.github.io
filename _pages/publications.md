@@ -9,12 +9,25 @@ author_profile: true
 
 <!-- ## Papers
 <ol reversed>
-</ol>
+</ol> -->
 
 
 ## Workshops, Posters, Demo
 <ol reversed>
-</ol> -->
+<li>
+<strong>Hunting for Offload: Automated Discovery of Acceleratable Code in Datacenters</strong>
+<br>
+<b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>In Architecture 2.0: Workshop on AI for Computing Systems Design in conjunction with ASPLOS'26</i>.
+<a href="404.md">[PDF]</a>
+</li>
+
+<li>
+<strong>Lightweight AI for Efficient Resource Management in Heterogeneous-Core Architectures</strong>
+<br>
+<b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>In Architecture 2.0: Workshop on AI for Computing Systems Design in conjunction with ASPLOS'26</i>.
+<a href="404.md">[PDF]</a>
+</li>
+</ol> 
 
 ## Thesis
 <ol reversed>
