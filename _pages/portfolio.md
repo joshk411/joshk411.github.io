@@ -15,6 +15,7 @@ author_profile: true
 
 ## Research Experience
 - Research Assistant (May 2025 - Present) [SCEA](https://github.com/utcs-scea) and [CASCADE](https://cascade.cs.utexas.edu/) groups, UT Austin
+- PhD Intern (May 2026 - August 2026), [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/)
 - Undergrad Research Assistant (May 2024 - July 2025), [CAOS Lab](https://www.cs.cmu.edu/~caos/), Carnegie Mellon University
 - Undergrad Research Assistant (Dec 2023 - May 2024), CMU CS Academy
 

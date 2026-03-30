@@ -7,26 +7,36 @@ author_profile: true
 
 
 
-<!-- ## Papers
+## Papers
 <ol reversed>
-</ol> -->
+
+<li>
+[ISCA] <strong>PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters</strong>
+<br>
+<b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<a href="../_pages/404.md">[PDF]</a> 
+</li>
+
+</ol>
 
 
 ## Workshops, Posters, Demo
 <ol reversed>
+
 <li>
 <strong>Hunting for Offload: Automated Discovery of Acceleratable Code in Datacenters</strong>
 <br>
 <b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>In Architecture 2.0: Workshop on AI for Computing Systems Design in conjunction with ASPLOS'26</i>.
-<a href="404.md">[PDF]</a>
+<a href="../files/2026/Hunting_for_Offload-Arch2.0.pdf">[PDF]</a> <a href="../files/2026/Hunting_for_Offload-Arch2.0-slides.pdf">[Slides]</a>
 </li>
 
 <li>
 <strong>Lightweight AI for Efficient Resource Management in Heterogeneous-Core Architectures</strong>
 <br>
 <b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>In Architecture 2.0: Workshop on AI for Computing Systems Design in conjunction with ASPLOS'26</i>.
-<a href="404.md">[PDF]</a>
+<a href="../files/2026/Lightweight_AI-Arch2.0.pdf">[PDF]</a> <a href="../files/2026/Lightweight_AI-Arch2.0-slides.pdf">[Slides]</a>
 </li>
+
 </ol> 
 
 ## Thesis
