@@ -20,5 +20,7 @@ author_profile: true
 - Undergrad Research Assistant (Dec 2023 - May 2024), CMU CS Academy
 
 ## Teaching Experience
+- Graduate Teaching Assistant (Fall 2026), UT Austin
+  - **Courses:** Hardware-Software Co-design for Cloud and Datacenters (CS 395T)
 - Undergraduate Teaching Assistant (Fall 2022 - Summer 2025), CMU
   - **Courses:** Introduction to Computer Systems (15-213, Head TA), Parallel Computer Architecture (15-418), Calculus in Three Dimensions (21-259)
