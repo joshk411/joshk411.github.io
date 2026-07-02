@@ -1,0 +1,28 @@
+{% assign publication_item = include.item %}
+{% assign paperurl = include.paperurl | default: publication_item.paperurl %}
+{% assign slidesurl = include.slidesurl | default: publication_item.slidesurl %}
+{% assign artifacturl = include.artifacturl | default: publication_item.artifacturl | default: publication_item.githuburl %}
+{% assign bibtexurl = include.bibtexurl | default: publication_item.bibtexurl %}
+
+{% assign has_previous_link = false %}
+{% if paperurl %}
+  <a href="{{ paperurl }}">[PDF]</a>
+  {% assign has_previous_link = true %}
+{% endif %}
+{% if slidesurl %}
+  {% if has_previous_link %} {% endif %}
+  <a href="{{ slidesurl }}">[Slides]</a>
+  {% assign has_previous_link = true %}
+{% endif %}
+{% if artifacturl %}
+  {% if has_previous_link %} {% endif %}
+  <a href="{{ artifacturl }}" aria-label="Open-source artifact">
+    <i class="fab fa-github" aria-hidden="true"></i>
+    
+  </a>
+  {% assign has_previous_link = true %}
+{% endif %}
+{% if bibtexurl %}
+  {% if has_previous_link %} {% endif %}
+  <a href="{{ bibtexurl }}">Download Bibtex</a>
+{% endif %}

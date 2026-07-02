@@ -49,8 +49,8 @@ When you are initially working on your website, it is very useful to be able to 
     ```
     then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+1. Run `bundle exec jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000`; the local server will automatically rebuild and refresh the pages on change.
+    Running plain `jekyll serve` can activate a different globally installed gem set than the one locked in `Gemfile.lock`.
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
