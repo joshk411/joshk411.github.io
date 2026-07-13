@@ -11,15 +11,24 @@ author_profile: true
 <ol reversed>
 
 <li>
+[SOSP] <strong>Cerium: A Multi-GPU Framework for TB-Scale Encrypted Inference</strong>
+<br>
+Siddharth Jayashankar, <b>Joshua Kim</b>, Michael Sullivan, Wenting Zheng, and Dimitrios Skarlatos. <i>To Appear In Proceedings of the 32nd Symposium on Operating Systems Principles</i>.
+{% include publication-links.html
+  paperurl="./404.md"
+  artifacturl="./404.md"
+%}
+</li>
+
+<li>
 [ISCA] <strong>PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters</strong>
 <br>
-<b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<b>Joshua Kim</b>, Chaojie Zhang, Íñigo Goiri, Christopher J. Rossbach, and Jovan Stojkovic. <i>In Proceedings of the 53rd International Symposium on Computer Architecture</i>.
 {% include publication-links.html
   paperurl="../files/2026/PhaseWeave-ISCA26-Camera-Ready.pdf"
   slidesurl="../files/2026/PhaseWeave_ISCA26_Slides.pdf"
   artifacturl="https://github.com/UTCS-CASCADE/PhaseWeave"
 %}
-
 </li>
 
 </ol>

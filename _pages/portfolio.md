@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## Education
-- PhD in Computer Science (2025 - Present), University of Texas at Austin
+- PhD in Computer Science (2025 - Present), The University of Texas at Austin
   - **Research Topics:** Datacenter Efficiency, Computer Architecture
   - **Advisors:** [Jovan Stojkovic](https://jovans2.github.io/) and [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)
 - B.S. in Computer Science and Mathematical Sciences (2021-2025), Carnegie Mellon University
   - **Thesis:** Towards a Scalable Multi-GPU System for Encrypted AI
-  - **GPA:** 3.73/4.00; **Awards:** Allen Newell Award for Excellence in Undergraduate Research 
+  - **GPA:** 3.73/4.00; **Awards:** Allen Newell Award for Excellence in Undergraduate Research, CRA Outstanding Undergraduate Research Awards Honorable Mention
 
 ## Research Experience
-- Research Assistant (May 2025 - Present) [SCEA](https://github.com/utcs-scea) and [CASCADE](https://cascade.cs.utexas.edu/) groups, UT Austin
+- Research Assistant (August 2025 - Present) [SCEA](https://github.com/utcs-scea) and [CASCADE](https://cascade.cs.utexas.edu/) groups, UT Austin
 - PhD Intern (May 2026 - August 2026), [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/)
 - Undergrad Research Assistant (May 2024 - July 2025), [CAOS Lab](https://www.cs.cmu.edu/~caos/), Carnegie Mellon University
 - Undergrad Research Assistant (Dec 2023 - May 2024), CMU CS Academy
